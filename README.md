@@ -40,7 +40,7 @@ python版本3.7，Djangn版本3，Mysql版本5.7。
 
 登录、注册、搜索、全部书籍、热门书籍、上市新书、书籍分类、点赞、评论、收藏、论坛、购买书籍、购物车、立即支付、图书借阅、个人中心、物流状态。
 
-![image-20220529211714965](D:\pythonpro\git\recommend\imgs\1.png)
+![image-20220529211714965](imgs\1.png)
 
 
 
@@ -52,7 +52,7 @@ python版本3.7，Djangn版本3，Mysql版本5.7。
 
 登录、注册、搜索、全部电影、最新电影、热门电影、电影分类、电影观看、猜你喜欢、个人中心、点赞、评论、收藏。
 
-![image-20220529221429146](D:\pythonpro\git\recommend\imgs\2.png)
+![image-20220529221429146](imgs\2.png)
 
 
 
@@ -60,7 +60,7 @@ python版本3.7，Djangn版本3，Mysql版本5.7。
 
 登录、注册、搜索、全部课程、最新课程、热门课程、课程分类、课程选修、猜你喜欢、个人中心、点赞、评论、收藏。
 
-![image-20220529223425358](D:\pythonpro\git\recommend\imgs\3.png)
+![image-20220529223425358](imgs\3.png)
 
 
 
@@ -68,7 +68,7 @@ python版本3.7，Djangn版本3，Mysql版本5.7。
 
 登录、注册、搜索、全部资讯、最新资讯、热门资讯、资讯分类、猜你喜欢、个人中心、点赞、评论、收藏。
 
-![image-20220529232408499](D:\pythonpro\git\recommend\imgs\4.png)
+![image-20220529232408499](imgs\4.png)
 
 
 
